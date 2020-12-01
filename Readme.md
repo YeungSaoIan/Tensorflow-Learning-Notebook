@@ -13,9 +13,11 @@
 
 ##### 推薦機器學習教材：
 Google Machine Learning Crash Course:
+
 https://developers.google.com/machine-learning/crash-course
 
 Stanford CS229: Machine Learning 大神Andrew Ng的課 ////全英教材 當練聽力
+
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 
