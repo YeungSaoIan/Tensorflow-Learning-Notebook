@@ -1,6 +1,6 @@
 # Tensorflow學習筆記
 
-書言Lab的Uncle Angel為了跟小夥伴們一同進步，撐到畢業~於是小弟先開個頭把Tensorflow的學習筆記用jupyter整理出來。
+書言老師Lab的Uncle Angel為了跟小夥伴們一同進步，撐到畢業~於是小弟先開個頭把Tensorflow的學習筆記用jupyter整理出來。
 希望大家能輕鬆把Tensorflow輕鬆上手，然後把自己論文的機器學習神經網路架起來。
 把Model跑跑跑起來，寫出Masterpiece，順利畢業。
 
